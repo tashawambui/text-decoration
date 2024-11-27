@@ -1,0 +1,25 @@
+h2{
+    color: blueviolet;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    text-decoration-line: underline;
+    
+}
+#p1{
+    color:blak;
+    font-size: x-large;
+    text-align: left;
+    text-shadow: 2px 2px 2px blueviolet;
+}
+#p2{
+color:blueviolet ;
+font-size: x-large;
+}
+#p3{
+    color: purple;
+    font-size: larger;
+}
+#p4{
+    color: cyan;
+    font-size: larger;
+}
