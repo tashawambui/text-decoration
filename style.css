@@ -1,3 +1,8 @@
+#div1{
+    height: 250px;
+    width: 400px;
+    background: linear-gradient(orangered,purple);
+}
 h2{
     color: blueviolet;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
